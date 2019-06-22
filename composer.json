@@ -1,0 +1,17 @@
+{
+    "name": "yangweijie/think-sqlite",
+    "description": "wrap medoo for access sqlite in ThinkPHP framework",
+    "type": "library",
+    "require": {
+        "catfan/medoo": "^1.6"
+    },
+    "require-dev": {
+        "catfan/medoo": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "jay",
+            "email": "917647288@qq.com"
+        }
+    ]
+}
