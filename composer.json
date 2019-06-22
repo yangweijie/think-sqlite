@@ -8,6 +8,11 @@
     "require-dev": {
         "catfan/medoo": "^1.6"
     },
+    "autoload": {
+        "psr-4": {
+            "think\\db\\": "src"
+        },
+    },
     "authors": [
         {
             "name": "jay",
